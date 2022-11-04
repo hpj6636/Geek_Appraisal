@@ -5,7 +5,7 @@ int main( )
 {
 	double a,step,x,y,Y,z;
 	printf("please enter a value\n");
-	scanf ("%lf",&a);
+	a=1;//scanf ("%lf",&a);
 	step=0.001;
 	x=0;
 	Y=a;
